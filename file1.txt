@@ -1,2 +1,4 @@
 this is for practice command
+merge conflict explanation
 this is merge conflict practice
+
